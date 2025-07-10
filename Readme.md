@@ -86,4 +86,4 @@ SQL queries used are stored in:
 ## 📬 Contact
 
 If you'd like to discuss the project or collaborate:
-**[Your Name]** | [Your Email] | [LinkedIn or GitHub Profile URL]
+**Anuradha Sawaika** | sawaika.anuradha@gmail.com | 
